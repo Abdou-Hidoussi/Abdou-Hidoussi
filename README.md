@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abderrahmen Hidouss</h1>
+<h1 align="center">Hi 👋, I'm Abderrahmen Hidoussi</h1>
 <h3 align="center">A passionate blockchain developer from Tunisia</h3>
 
 - 🌱 I’m currently learning **Assembly and Docker**
